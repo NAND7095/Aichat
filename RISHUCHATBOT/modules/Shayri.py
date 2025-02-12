@@ -1,3 +1,4 @@
+
 import random
 from RISHUCHATBOT.database import get_served_chats
 from pyrogram import Client, filters
@@ -71,10 +72,10 @@ async def shayri(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❍ 𝐒ᴜᴘᴘᴏʀᴛ ❍", url=f"https://t.me/ur_rishu_143"
+                        "❍ 𝐒ᴜᴘᴘᴏʀᴛ ❍", url=f"https://t.me/creativeydv"
                     ),
                     InlineKeyboardButton(
-                        "❍ 𝐔ᴘᴅᴀᴛᴇ ❍", url=f"https://t.me/vip_robotz"
+                        "❍ 𝐔ᴘᴅᴀᴛᴇ ❍", url=f"https://t.me/Nycreationchatzone"
                     ),
                 ]
             ]
