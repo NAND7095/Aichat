@@ -15,3 +15,5 @@ OWNER_ID = int(getenv("OWNER_ID", "7858950584"))
 SUPPORT_GRP = "Nycreation_chatzone"
 UPDATE_CHNL = "CreativeYdv"
 OWNER_USERNAME = "Yo_Mysterious"
+# config.py
+OPENAI_API_KEY = "your_openai_api_key_here"
