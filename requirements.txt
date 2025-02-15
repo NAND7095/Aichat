@@ -15,4 +15,5 @@ Flask
 uvloop
 psutil
 langdetect
+openai
 MukeshAPI
