@@ -16,4 +16,4 @@ SUPPORT_GRP = "Nycreation_chatzone"
 UPDATE_CHNL = "CreativeYdv"
 OWNER_USERNAME = "Yo_Mysterious"
 # config.py
-OPENAI_API_KEY = "your_openai_api_key_here"
+OPENAI_API_KEY = "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"
